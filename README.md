@@ -35,6 +35,12 @@ We built a **secure logistics tracking system using blockchain** that:
 
 ---
 
+## System architecture
+
+  <img width="1382" height="292" alt="Screenshot 2026-04-30 at 10 10 01 AM" src="https://github.com/user-attachments/assets/b9a587af-d219-4c44-96eb-e7b62c63a3ad" />
+
+
+
 ## Key Features
 
 * **Role-Based Access Control**
